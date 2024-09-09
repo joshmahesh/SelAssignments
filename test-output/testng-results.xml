@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-09T12:31:16 IST" name="Default suite" finished-at="2024-09-09T12:31:20 IST" duration-ms="4256">
+    <groups>
+    </groups>
+    <test started-at="2024-09-09T12:31:16 IST" name="Default test" finished-at="2024-09-09T12:31:20 IST" duration-ms="4256">
+      <class name="Demo.assignment_MVN.IFrames">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Demo.assignment_MVN.IFrames@217ed35e]" started-at="2024-09-09T12:31:16 IST" name="setUp" finished-at="2024-09-09T12:31:20 IST" duration-ms="3725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="switching()[pri:0, instance:Demo.assignment_MVN.IFrames@217ed35e]" started-at="2024-09-09T12:31:20 IST" name="switching" finished-at="2024-09-09T12:31:20 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switching -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Demo.assignment_MVN.IFrames@217ed35e]" started-at="2024-09-09T12:31:20 IST" name="quit" finished-at="2024-09-09T12:31:20 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Demo.assignment_MVN.IFrames -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
